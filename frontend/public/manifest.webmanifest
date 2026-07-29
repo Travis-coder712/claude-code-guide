@@ -1,0 +1,30 @@
+{
+  "name": "Claude Code Guide",
+  "short_name": "CC Guide",
+  "description": "Get the most out of Claude Code \u2014 a hands-on guide for people who build with AI.",
+  "start_url": "/claude-code-guide/",
+  "scope": "/claude-code-guide/",
+  "display": "standalone",
+  "background_color": "#0b0d12",
+  "theme_color": "#0b0d12",
+  "icons": [
+    {
+      "src": "/claude-code-guide/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/claude-code-guide/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/claude-code-guide/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
